@@ -1,1 +1,0 @@
-Ping pong paddle, created using Blender
